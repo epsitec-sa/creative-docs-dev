@@ -1,0 +1,7 @@
+<Project>
+  <Import Project="zou\Directory.Build.Default.targets" />
+  <PropertyGroup Condition="$(TargetFramework.EndsWith('-windows'))">
+    <UseWindowsForms>true</UseWindowsForms>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+</Project>

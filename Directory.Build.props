@@ -1,0 +1,18 @@
+<Project>
+  <Import Project="zou\Directory.Build.Default.props" />
+
+  <PropertyGroup>
+    <CoreTargetFramework>net8.0</CoreTargetFramework>
+    <WindowsTargetFramework>$(CoreTargetFramework)-windows</WindowsTargetFramework>
+    <TargetFramework>$(CoreTargetFramework)</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <Product>Creative Documents</Product>
+    <FirstCopyrightYear>2003</FirstCopyrightYear>
+    <Authors>Pierre ARNAUD, Daniel ROUX, Baptiste LAMBERT</Authors>
+
+    <PackageTags>creative-docs</PackageTags>
+    <PackageProjectUrl>https://github.com/epsitec-sa/creative-docs-dev.git</PackageProjectUrl>
+  </PropertyGroup>
+</Project>
