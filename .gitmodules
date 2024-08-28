@@ -1,0 +1,9 @@
+[submodule "creative-docs"]
+	path = creative-docs
+	url = ../creative-docs.git
+[submodule "grafix"]
+	path = grafix
+	url = ../grafix.git
+[submodule "zou"]
+	path = zou
+	url = ../zou.git
