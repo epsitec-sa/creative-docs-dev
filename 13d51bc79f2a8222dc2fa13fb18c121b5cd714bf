@@ -1,0 +1,11 @@
+[
+  {
+    "SourceBranch": "wip/foo",
+    "TargetBranch": "master",
+    "CreateMergeRequest": false,
+    "CreatedAt": "2026-09-08T07:39:02.054085+02:00",
+    "Author": "Roger Vuistiner <vuistiner@epsitec.ch>",
+    "TargetSha": "13d51bc79f2a8222dc2fa13fb18c121b5cd714bf",
+    "Orphan": false
+  }
+]
