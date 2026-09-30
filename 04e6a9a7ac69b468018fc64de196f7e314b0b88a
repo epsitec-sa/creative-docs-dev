@@ -1,0 +1,30 @@
+[
+  {
+    "Module": "zou",
+    "Version": "v20.2.4",
+    "Hash": "10e5df3",
+    "Dev": "master",
+    "Prod": "20.2"
+  },
+  {
+    "Module": "grafix",
+    "Version": "v1.0.3",
+    "Hash": "a87d6f3",
+    "Dev": "master",
+    "Prod": "1.0"
+  },
+  {
+    "Module": "creative-docs",
+    "Version": "v3.0.4",
+    "Hash": "9912c5c",
+    "Dev": "master",
+    "Prod": "3.0"
+  },
+  {
+    "Module": "creative-docs-dev",
+    "Version": "v3.0.4",
+    "Hash": "04e6a9a",
+    "Dev": "master",
+    "Prod": "3.0"
+  }
+]
